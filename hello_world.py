@@ -1,1 +1,1 @@
-print("Hello World! I am Rivka Yanovskiy (Codespaces edit)")
+print("Hello World! I am Rivka Yanovskiy (GitHub UI)")
